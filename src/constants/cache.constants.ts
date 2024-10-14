@@ -1,0 +1,4 @@
+export const CACHE_KEYS = <const>{
+  COUNTRIES: '@CACHE/COUNTRIES',
+  COUNTRY_CODE: '@CACHE/COUNTRY_CODE',
+};
